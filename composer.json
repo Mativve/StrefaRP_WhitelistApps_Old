@@ -1,0 +1,6 @@
+{
+    "require": {
+        "restcord/restcord": "dev-master",
+        "wohali/oauth2-discord-new": "^1.0"
+    }
+}
